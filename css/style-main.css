@@ -1,0 +1,25 @@
+.main-title1{
+	background-image: url(../images/bg.jpg);
+	padding: 5px 0px 5px 0px;
+	margin: 0px 10px 0px 0px;
+}
+.main-title2{
+	background-image: url(../images/bg.jpg);
+	padding: 5px 0px 5px 0px;
+	margin: 0px 0px 0px 10px;
+}
+
+h1{
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+	margin-left: 20px;
+}
+.col-lg-8{
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 10px 0px;
+}
+.col-lg-4{
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 10px 0px;
+}
